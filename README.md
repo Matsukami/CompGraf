@@ -62,4 +62,12 @@ frame_detectado_XXXXXX.jpg → frame com a logo destacada (até DRAW_SAMPLE_N un
 
 heatmap.png → mapa de calor normalizado da presença da logo.
 
+Autores:
+
+Geisbelly Victória Moraes
+
+Lucas Bueno
+
+Samuel Matsukami Cruz Kagueiama
+
 heatmap_sobreposto.png → heatmap sobreposto a um frame de referência.
